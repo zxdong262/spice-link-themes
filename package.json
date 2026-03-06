@@ -1,6 +1,6 @@
 {
   "name": "spice-link-themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "spice-link themes imported from iTerm2-Color-Schemes",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.mjs",
@@ -11,7 +11,6 @@
     }
   },
   "scripts": {
-    "install": "node ./build/install.js",
     "build": "node ./build/build.js",
     "prepublish": "npm run build"
   },
