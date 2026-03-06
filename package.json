@@ -1,5 +1,5 @@
 {
-  "name": "@spice-link/themes",
+  "name": "spice-link-themes",
   "version": "1.0.0",
   "description": "spice-link themes imported from iTerm2-Color-Schemes",
   "main": "dist/cjs/index.js",
